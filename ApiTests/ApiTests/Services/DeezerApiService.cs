@@ -17,6 +17,7 @@ namespace ApiTests.Services
         const string ApiHostValue = "deezerdevs-deezer.p.rapidapi.com";
         const string ApiKey = "x-rapidapi-key";
         const string ApiKeyValue = "069264c0f2msha5bc2069b48b455p1cf35ajsnf9502b386e2a";
+        const string ApiUrl = "https://deezerdevs-deezer.p.rapidapi.com/artist/";
 
         public async Task<Artist> GetArtistInfo(string Id)
         {
@@ -25,7 +26,7 @@ namespace ApiTests.Services
                 HttpClient client = new HttpClient();
                 client.DefaultRequestHeaders.Add($"{ApiHost}", $"{ApiHostValue}");
                 client.DefaultRequestHeaders.Add($"{ApiKey}", $"{ApiKeyValue}");
-                var result = await client.GetStringAsync($"https://deezerdevs-deezer.p.rapidapi.com/artist/{Id}");
+                var result = await client.GetStringAsync($"{ApiUrl}{Id}");
                 return JsonConvert.DeserializeObject<Artist>(result);
             }
             catch (Exception ex)
