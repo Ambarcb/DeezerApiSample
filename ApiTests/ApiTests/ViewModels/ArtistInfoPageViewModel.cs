@@ -27,9 +27,9 @@ namespace ApiTests.ViewModels
 
         public ArtistInfoPageViewModel()
         {
-            GetArtistInfoCommand = new Command(() =>
+            GetArtistInfoCommand = new Command(async() =>
             {
-                GetDataAsync();
+               await GetDataAsync();
             });
                
                     
