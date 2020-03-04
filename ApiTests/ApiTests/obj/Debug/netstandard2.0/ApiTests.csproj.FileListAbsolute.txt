@@ -1,0 +1,15 @@
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\bin\Debug\netstandard2.0\ApiTests.deps.json
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\bin\Debug\netstandard2.0\ApiTests.dll
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.csprojAssemblyReference.cache
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.AssemblyInfoInputs.cache
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.AssemblyInfo.cs
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\bin\Debug\netstandard2.0\ref\ApiTests.dll
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\bin\Debug\netstandard2.0\ApiTests.pdb
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\Views\ArtistInfoPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.dll
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ref\ApiTests.dll
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.pdb
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\ApiTests.csproj.Fody.CopyLocal.cache
+C:\Users\Ambar Cuevas\Desktop\ApiTests\ApiTests\ApiTests\obj\Debug\netstandard2.0\XamlC.stamp
